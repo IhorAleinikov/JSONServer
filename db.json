@@ -7,6 +7,7 @@
   ],
   "clients": [
     {
+      "id": "1",
       "name": "Michael",
       "email": "michael@upstart.com",
       "phone": "+972500000000",
@@ -14,6 +15,7 @@
       "isActive": false
     },
      {
+       "id": "2",
       "name": "Idan",
       "email": "Idan@upstart.com",
       "phone": "+972500000000",
@@ -21,6 +23,7 @@
       "isActive": false
     },
      {
+       "id": "3",
       "name": "Ihor",
       "email": "Ihor@upstart.com",
       "phone": "+972500000000",
