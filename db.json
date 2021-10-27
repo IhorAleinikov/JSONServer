@@ -5,9 +5,6 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  },
   "clients": [
     {
       "name": "Michael",
@@ -30,5 +27,8 @@
       "identification": "123567898",
       "isActive": false
     }
-  ]
+  ],
+  "profiles": {
+    "name": "typicode"
+  }
 }
