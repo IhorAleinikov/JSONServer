@@ -7,5 +7,28 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "clients": [
+    {
+      name: 'Michael',
+      email: 'michael@upstart.com',
+      phone: '+972500000000',
+      identification: '123567898',
+      isActive: false
+    },
+     {
+      name: 'Idan',
+      email: 'Idan@upstart.com',
+      phone: '+972500000000',
+      identification: '123567898',
+      isActive: false
+    },
+     {
+      name: 'Ihor',
+      email: 'Ihor@upstart.com',
+      phone: '+972500000000',
+      identification: '123567898',
+      isActive: false
+    }
+  ]
 }
