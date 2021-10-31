@@ -10,18 +10,21 @@
       "id": "1",
       "enabled": true,
       "versionName": "1.0.0",
+      "createdOn": "2020-04-23T18:25:43.511Z",
       "data": "Terms..."
     },
     {
       "id": "2",
       "enabled": true,
       "versionName": "1.0.1",
+      "createdOn": "2020-04-23T18:25:43.511Z",
       "data": "Terms..."
     },
     {
       "id": "3",
       "enabled": false,
       "versionName": "1.0.2",
+      "createdOn": "2020-04-23T18:25:43.511Z",
       "data": "Terms..."
     }
   ],
