@@ -5,6 +5,26 @@
       "title": "hello"
     }
   ],
+  "terms-and-conditions": [
+    {
+      "id": "1",
+      "enabled": true,
+      "versionName": "1.0.0",
+      "data": "Terms..."
+    },
+    {
+      "id": "2",
+      "enabled": true,
+      "versionName": "1.0.1",
+      "data": "Terms..."
+    },
+    {
+      "id": "3",
+      "enabled": false,
+      "versionName": "1.0.2",
+      "data": "Terms..."
+    }
+  ],
   "clients": [
     {
       "id": "1",
