@@ -60,29 +60,7 @@
   "reports": [
     {
       "id": "1",
-      "reportId": "1",
-      "isDeleted": false,
-      "createdOn": "2020-04-23T18:25:43.511Z",
-      "modifyOn": "2020-04-23T18:25:43.511Z",
-      "createdBy": "Someone",
-      "modifiedBy": "Someone",
-      "clientId": "1",
-      "confirmationNumber": 1234,
-      "errorFromReport": "No errors",
-      "payments": "Payments"
-    },
-    {
-      "id": "2",
-      "reportId": "1",
-      "isDeleted": false,
-      "createdOn": "2020-04-23T18:25:43.511Z",
-      "modifyOn": "2020-04-23T18:25:43.511Z",
-      "createdBy": "Someone",
-      "modifiedBy": "Someone",
-      "clientId": "1",
-      "confirmationNumber": 1234,
-      "errorFromReport": "No errors",
-      "payments": "Payments"
-    },
+      
+    }
    ]
 }
