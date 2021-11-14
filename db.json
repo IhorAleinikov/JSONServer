@@ -56,11 +56,5 @@
   ],
   "profiles": {
     "name": "typicode"
-  },
-  "reports": [
-    {
-      "id": "1",
-      
-    }
-   ]
+  }
 }
