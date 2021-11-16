@@ -38,7 +38,8 @@
       "isActive": false,
       "createdOn": "2020-04-23T18:25:43.511Z",
       "age": 25,
-      "gender": "זכר"
+      "gender": "זכר",
+      "profileCompleted": 45
     },
      {
        "id": "2",
@@ -49,7 +50,8 @@
       "isActive": false,
       "createdOn": "2020-04-23T18:25:43.511Z",
       "age": 25,
-      "gender": "זכר"
+      "gender": "זכר",
+      "profileCompleted": 45
     },
      {
        "id": "3",
@@ -60,7 +62,8 @@
       "isActive": false,
       "createdOn": "2020-04-23T18:25:43.511Z",
       "age": 25,
-      "gender": "זכר"
+      "gender": "זכר",
+      "profileCompleted": 45
     }
   ],
   "profiles": {
