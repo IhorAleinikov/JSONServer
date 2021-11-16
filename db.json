@@ -40,7 +40,12 @@
       "age": 25,
       "gender": "זכר",
       "profileCompleted": 45,
-      "marketingEmails": true
+      "marketingEmails": true,'
+      "history": [
+        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
+        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
+        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"}
+      ]
     },
      {
        "id": "2",
@@ -53,10 +58,15 @@
       "age": 25,
       "gender": "זכר",
       "profileCompleted": 45,
-      "marketingEmails": false
+      "marketingEmails": false,
+       "history": [
+        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
+        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
+        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"}
+      ]
     },
      {
-       "id": "3",
+      "id": "3",
       "name": "Ihor",
       "email": "Ihor@upstart.com",
       "phoneNumber": "+972500000003",
@@ -66,7 +76,12 @@
       "age": 25,
       "gender": "זכר",
       "profileCompleted": 45,
-      "marketingEmails": false
+      "marketingEmails": false,
+      "history": [
+        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
+        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
+        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"}
+      ]
     }
   ],
   "profiles": {
