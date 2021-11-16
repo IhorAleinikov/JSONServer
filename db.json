@@ -36,7 +36,9 @@
       "phoneNumber": "+972500000001",
       "idNumber": "123567898",
       "isActive": false,
-      "createdOn": "2020-04-23T18:25:43.511Z"
+      "createdOn": "2020-04-23T18:25:43.511Z",
+      "age": 25,
+      "gender": "זכר"
     },
      {
        "id": "2",
@@ -45,7 +47,9 @@
       "phoneNumber": "+972500000002",
       "idNumber": "133567898",
       "isActive": false,
-      "createdOn": "2020-04-23T18:25:43.511Z"
+      "createdOn": "2020-04-23T18:25:43.511Z",
+      "age": 25,
+      "gender": "זכר"
     },
      {
        "id": "3",
@@ -54,7 +58,9 @@
       "phoneNumber": "+972500000003",
       "idNumber": "143567898",
       "isActive": false,
-      "createdOn": "2020-04-23T18:25:43.511Z"
+      "createdOn": "2020-04-23T18:25:43.511Z",
+      "age": 25,
+      "gender": "זכר"
     }
   ],
   "profiles": {
