@@ -81,7 +81,15 @@
         {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
         {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
         {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"}
-      ]
+      ],
+       "registrationStep": "2/5",
+       "registrationError": "לא קיים",
+       "lastCreditDataUpdate": "2020-04-23T18:25:43.511Z",
+       "currentVersion": "1.7.1",
+       "termsAndConditionsVersion": "terms v 1.0",
+       "deviceType": "IPhone 12",
+       "unsubscribeDate": null,
+       "unsubsribeReason": "-"
     }
   ],
   "profiles": {
