@@ -40,7 +40,7 @@
       "age": 25,
       "gender": "זכר",
       "profileCompleted": 45,
-      "marketingEmails": true,'
+      "marketingEmails": true,
       "history": [
         {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
         {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
