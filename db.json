@@ -93,6 +93,14 @@
        "services": [
          {"name": "Service name 1", "registrationDate": "2020-04-23T18:25:43.511Z", "unsubscribeDate": null, "active": true},
          {"name": "Service name 2", "registrationDate": "2020-04-23T18:25:43.511Z", "unsubscribeDate": "2020-04-23T18:25:43.511Z", "active": false}
+       ],
+       "reports": [
+         {"dateOfOrder": "2020-04-23T18:25:43.511Z", "id": "1234", "type": "user", "status": "submitted", "payment": 40},
+         {"dateOfOrder": "2020-04-23T18:25:43.511Z", "id": "5678", "type": "system", "status": "submitted", "payment": 0}
+       ],
+       "freeReportsHistory": [
+         {"date": "2020-04-23T18:25:43.511Z", "expDate": "2020-04-23T18:25:43.511Z", "doneBy": "Backoffice user", "reason": "Some reason"},
+         {"date": "2020-04-23T18:25:43.511Z", "expDate": "2020-04-23T18:25:43.511Z", "doneBy": "Backoffice user 2", "reason": "Some reason 2"}
        ]
     }
   ],
