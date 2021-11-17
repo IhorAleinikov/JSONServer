@@ -89,7 +89,11 @@
        "termsAndConditionsVersion": "terms v 1.0",
        "deviceType": "IPhone 12",
        "unsubscribeDate": null,
-       "unsubsribeReason": "-"
+       "unsubsribeReason": "-",
+       "services": [
+         {"name": "Service name 1", "registrationDate": "2020-04-23T18:25:43.511Z", "unsubscribeDate": null, "active": true},
+         {"name": "Service name 2", "registrationDate": "2020-04-23T18:25:43.511Z", "unsubscribeDate": "2020-04-23T18:25:43.511Z", "active": false}
+       ]
     }
   ],
   "profiles": {
