@@ -105,7 +105,8 @@
        "leads": [
          {"submittedDate": "2020-04-23T18:25:43.511Z", "productTypeName": "Type name", "productCategoryName": " Category name", "advisorName": "Advisor name", "leadAmount": "100.00", "leadPlace": "Place"},
          {"submittedDate": "2020-04-23T18:25:43.511Z", "productTypeName": "Type name", "productCategoryName": " Category name", "advisorName": "Advisor name", "leadAmount": "100.00", "leadPlace": "Place"}
-       ]
+       ],
+       "authenticated": true
     }
   ],
   "profiles": {
