@@ -103,28 +103,14 @@
        "authenticated": true
     }
   ],
-  "operations": [
+  "campaigns": [
     {
-      "id": "1"
+      "id": "1",
+      "type": "1"
     },
     {
-      "id": "2"
+      "id": "2",
+      "type": "2"
     }
    ],
-  "campaigns/type1": [
-    {
-      "id": "1"
-    },
-    {
-      "id": "2"
-    }
-  ],
-  "campaigns/type2": [
-    {
-      "id": "1"
-    },
-    {
-      "id": "2"
-    }
-  ]
 }
