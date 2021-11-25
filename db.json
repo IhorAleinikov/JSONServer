@@ -1,10 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
   "terms-and-conditions": [
     {
       "id": "1",
@@ -109,9 +103,6 @@
        "authenticated": true
     }
   ],
-  "profiles": {
-    "name": "typicode"
-  },
   "operations": [
     {
       "id": "1"
@@ -135,6 +126,5 @@
     {
       "id": "2"
     }
-  ],
-  "test": {"data": "data"}
+  ]
 }
