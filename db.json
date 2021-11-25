@@ -111,5 +111,13 @@
   ],
   "profiles": {
     "name": "typicode"
-  }
+  },
+  "operations": [
+    {
+      id: '1'
+    },
+    {
+      id: '2'
+    }
+   ] 
 }
