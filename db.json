@@ -106,11 +106,29 @@
   "campaigns": [
     {
       "id": "1",
-      "type": "1"
+      "type": "1",
+      "advertiser": "Advertiser",
+      "campaign": "Campaign",
+      "status": true,
+      "startDate": "2020-04-23T18:25:43.511Z",
+      "endDate": "2020-04-23T18:25:43.511Z",
+      "strategy": "Strategy",
+      "dailyBudget": "2,000",
+      "dailyBudgetLeft": "2,000",
+      "lastUpdated": "2020-04-23T18:25:43.511Z"
     },
     {
       "id": "2",
-      "type": "2"
+      "type": "2",
+      "advertiser": "Advertiser",
+      "campaign": "Campaign",
+      "status": false,
+      "startDate": "2020-04-23T18:25:43.511Z",
+      "endDate": "2020-04-23T18:25:43.511Z",
+      "strategy": "Strategy",
+      "dailyBudget": "2,000",
+      "dailyBudgetLeft": "2,000",
+      "lastUpdated": "2020-04-23T18:25:43.511Z"
     }
    ]
 }
