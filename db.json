@@ -130,5 +130,40 @@
       "dailyBudgetLeft": "4,000",
       "lastUpdated": "2020-04-23T18:25:43.511Z"
     }
+   ],
+  "products": [
+    {
+      "id": "1",
+      "campaignId": "1",
+      "productName": "Product Name",
+      "productType": "Product Type",
+      "status": true,
+      "strategy": "Strategy",
+      "mainCategory": "Main Category",
+      "secondaryCategory": "Secondary Category",
+      "updatedOn": "2020-04-23T18:25:43.511Z"
+    },
+    {
+      "id": "2",
+      "campaignId": "1",
+      "productName": "Product Name",
+      "productType": "Product Type",
+      "status": true,
+      "strategy": "Strategy",
+      "mainCategory": "Main Category",
+      "secondaryCategory": "Secondary Category",
+      "updatedOn": "2020-04-23T18:25:43.511Z"
+    },
+    {
+      "id": "3",
+      "campaignId": "2",
+      "productName": "Product Name",
+      "productType": "Product Type",
+      "status": true,
+      "strategy": "Strategy",
+      "mainCategory": "Main Category",
+      "secondaryCategory": "Secondary Category",
+      "updatedOn": "2020-04-23T18:25:43.511Z"
+    }
    ]
 }
