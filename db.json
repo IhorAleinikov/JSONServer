@@ -141,7 +141,8 @@
       "strategy": "Strategy",
       "mainCategory": "Main Category",
       "secondaryCategory": "Secondary Category",
-      "updatedOn": "2020-04-23T18:25:43.511Z"
+      "updatedOn": "2020-04-23T18:25:43.511Z",
+      "image": "https://www.pngall.com/wp-content/uploads/2/Blue-Credit-Card-PNG-Picture.png"
     },
     {
       "id": "2",
@@ -152,7 +153,8 @@
       "strategy": "Strategy",
       "mainCategory": "Main Category",
       "secondaryCategory": "Secondary Category",
-      "updatedOn": "2020-04-23T18:25:43.511Z"
+      "updatedOn": "2020-04-23T18:25:43.511Z",
+      "image": "https://www.pngall.com/wp-content/uploads/2/Blue-Credit-Card-PNG-Picture.png"
     },
     {
       "id": "3",
@@ -163,7 +165,8 @@
       "strategy": "Strategy",
       "mainCategory": "Main Category",
       "secondaryCategory": "Secondary Category",
-      "updatedOn": "2020-04-23T18:25:43.511Z"
+      "updatedOn": "2020-04-23T18:25:43.511Z",
+      "image": "https://www.pngall.com/wp-content/uploads/2/Blue-Credit-Card-PNG-Picture.png"
     }
    ]
 }
