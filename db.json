@@ -143,7 +143,12 @@
       "secondaryCategory": "3",
       "updatedOn": "2020-04-23T18:25:43.511Z",
       "image": "https://www.pngall.com/wp-content/uploads/2/Blue-Credit-Card-PNG-Picture.png",
-      "offer": ["1", "2", "3"]
+      "offer": ["1", "2", "3"],
+      "mainSelectedOfferKeys": ["1", "2", "3"],
+      "mainSelectedOfferValues": ["Value 1", "Value 2", "Value 3"],
+      "importantSelectedOfferKeys": ["1"],
+      "importantSelectedOfferValues": ["IValue 1"],
+      "additionalConditions": ["Condition 1", "Condition 2"]
     },
     {
       "id": "2",
@@ -156,7 +161,12 @@
       "secondaryCategory": "3",
       "updatedOn": "2020-04-23T18:25:43.511Z",
       "image": "https://www.pngall.com/wp-content/uploads/2/Blue-Credit-Card-PNG-Picture.png",
-      "offer": ["1", "2", "3"]
+      "offer": ["1", "2", "3"],
+      "mainSelectedOfferKeys": ["1", "2", "3"],
+      "mainSelectedOfferValues": ["Value 1", "Value 2", "Value 3"],
+      "importantSelectedOfferKeys": ["1"],
+      "importantSelectedOfferValues": ["IValue 1"],
+      "additionalConditions": ["Condition 1", "Condition 2"]
     },
     {
       "id": "3",
@@ -169,7 +179,12 @@
       "secondaryCategory": "2",
       "updatedOn": "2020-04-23T18:25:43.511Z",
       "image": "https://www.pngall.com/wp-content/uploads/2/Blue-Credit-Card-PNG-Picture.png",
-      "offer": ["1", "2", "3"]
+      "offer": ["1", "2", "3"],
+      "mainSelectedOfferKeys": ["1", "2", "3"],
+      "mainSelectedOfferValues": ["Value 1", "Value 2", "Value 3"],
+      "importantSelectedOfferKeys": ["1"],
+      "importantSelectedOfferValues": ["IValue 1"],
+      "additionalConditions": ["Condition 1", "Condition 2"]
     }
    ]
 }
