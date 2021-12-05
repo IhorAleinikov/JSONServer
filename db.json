@@ -186,5 +186,13 @@
       "importantSelectedOfferValues": ["IValue 1"],
       "additionalConditions": ["Condition 1", "Condition 2"]
     }
-   ]
+   ],
+  "reviews": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    }
+  ]
 }
