@@ -1,27 +1,4 @@
 {
-  "terms-and-conditions": [
-    {
-      "id": "1",
-      "enabled": true,
-      "versionName": "1.0.0",
-      "createdOn": "2020-04-23T18:25:43.511Z",
-      "body": "<html><body><h1>SOME HEADING</h2><b>Test</b>, some text and some <i>ITALIC</i></body></html>"
-    },
-    {
-      "id": "2",
-      "enabled": true,
-      "versionName": "1.0.1",
-      "createdOn": "2020-04-23T18:25:43.511Z",
-      "body": "Terms..."
-    },
-    {
-      "id": "3",
-      "enabled": false,
-      "versionName": "1.0.2",
-      "createdOn": "2020-04-23T18:25:43.511Z",
-      "body": "Terms..."
-    }
-  ],
   "clients": [
     {
       "id": "1",
