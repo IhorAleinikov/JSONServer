@@ -170,7 +170,7 @@
       "responseDate": "2020-04-23T18:25:43.511Z",
       "userName": "User Name",
       "productType": "Type 1",
-      "rating": "",
+      "rating": 5,
       "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel viverra turpis, vestibulum tempus metus. Fusce at euismod purus. Mauris sed egestas mauris, a convallis felis. Mauris diam purus, porta molestie tellus eget, venenatis sodales massa. Pellentesque finibus tortor at euismod accumsan. Morbi non nulla ac ipsum lobortis pretium ut at ipsum. Mauris a efficitur dolor. Cras laoreet tellus eu nisl hendrerit porta. Nulla facilisi.",
       "status": 0
     },
@@ -179,7 +179,7 @@
       "responseDate": "2020-04-23T18:25:43.511Z",
       "userName": "User Name",
       "productType": "Type 1",
-      "rating": "",
+      "rating": 3,
       "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel viverra turpis, vestibulum tempus metus. Fusce at euismod purus. Mauris sed egestas mauris, a convallis felis. Mauris diam purus, porta molestie tellus eget, venenatis sodales massa. Pellentesque finibus tortor at euismod accumsan. Morbi non nulla ac ipsum lobortis pretium ut at ipsum. Mauris a efficitur dolor. Cras laoreet tellus eu nisl hendrerit porta. Nulla facilisi.",
       "status": 1
     }
