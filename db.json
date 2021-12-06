@@ -166,18 +166,34 @@
    ],
   "reviews": [
     {
-      "id": "1"
+      "id": "1",
+      "responseDate": "2020-04-23T18:25:43.511Z",
+      "userName": "User Name",
+      "productType": "Type 1",
+      "rating": "",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel viverra turpis, vestibulum tempus metus. Fusce at euismod purus. Mauris sed egestas mauris, a convallis felis. Mauris diam purus, porta molestie tellus eget, venenatis sodales massa. Pellentesque finibus tortor at euismod accumsan. Morbi non nulla ac ipsum lobortis pretium ut at ipsum. Mauris a efficitur dolor. Cras laoreet tellus eu nisl hendrerit porta. Nulla facilisi."
     },
     {
-      "id": "2"
+      "id": "2",
+      "responseDate": "2020-04-23T18:25:43.511Z",
+      "userName": "User Name",
+      "productType": "Type 1",
+      "rating": "",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel viverra turpis, vestibulum tempus metus. Fusce at euismod purus. Mauris sed egestas mauris, a convallis felis. Mauris diam purus, porta molestie tellus eget, venenatis sodales massa. Pellentesque finibus tortor at euismod accumsan. Morbi non nulla ac ipsum lobortis pretium ut at ipsum. Mauris a efficitur dolor. Cras laoreet tellus eu nisl hendrerit porta. Nulla facilisi."
     }
   ],
    "tips": [
     {
-      "id": "1"
+      "id": "1",
+      "tipNumber": 1,
+      "domain": "Domain",
+      "tipContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel viverra turpis, vestibulum tempus metus. Fusce at euismod purus. Mauris sed egestas mauris, a convallis felis. Mauris diam purus, porta molestie tellus eget, venenatis sodales massa. Pellentesque finibus tortor at euismod accumsan. Morbi non nulla ac ipsum lobortis pretium ut at ipsum. Mauris a efficitur dolor. Cras laoreet tellus eu nisl hendrerit porta. Nulla facilisi."
     },
     {
-      "id": "2"
+      "id": "2",
+      "tipNumber": 1,
+      "domain": "Domain",
+      "tipContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel viverra turpis, vestibulum tempus metus. Fusce at euismod purus. Mauris sed egestas mauris, a convallis felis. Mauris diam purus, porta molestie tellus eget, venenatis sodales massa. Pellentesque finibus tortor at euismod accumsan. Morbi non nulla ac ipsum lobortis pretium ut at ipsum. Mauris a efficitur dolor. Cras laoreet tellus eu nisl hendrerit porta. Nulla facilisi."
     }
   ]
 }
