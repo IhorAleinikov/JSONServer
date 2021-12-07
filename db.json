@@ -118,27 +118,5 @@
       "tipContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel viverra turpis, vestibulum tempus metus. Fusce at euismod purus. Mauris sed egestas mauris, a convallis felis. Mauris diam purus, porta molestie tellus eget, venenatis sodales massa. Pellentesque finibus tortor at euismod accumsan. Morbi non nulla ac ipsum lobortis pretium ut at ipsum. Mauris a efficitur dolor. Cras laoreet tellus eu nisl hendrerit porta. Nulla facilisi.",
       "active": false
     }
-  ],
-  "scoreSentences": [
-    {
-      "aggregatedId": "1",
-      "categoryId": "2",
-      "positive": true,
-      "impactLevel": "Level",
-      "trialTitle": "Title",
-      "content": "Content",
-      "action": 0,
-      "active": true
-    },
-    {
-      "aggregatedId": "2",
-      "categoryId": "2",
-      "positive": false,
-      "impactLevel": "Level",
-      "trialTitle": "Title",
-      "content": "Content",
-      "action": 1,
-      "active": false
-    },
   ]
 }
