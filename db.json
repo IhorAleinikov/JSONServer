@@ -121,6 +121,7 @@
   ],
   "scoreSentences": [
     {
+      "id": "1",
       "aggregatedId": "1",
       "categoryId": "2",
       "positive": true,
@@ -131,6 +132,7 @@
       "active": true
     },
     {
+      "id": "2",
       "aggregatedId": "2",
       "categoryId": "2",
       "positive": false,
