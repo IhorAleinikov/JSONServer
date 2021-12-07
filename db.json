@@ -129,6 +129,16 @@
       "content": "Content",
       "action": 0,
       "active": true
+    },
+    {
+      "aggregatedId": "2",
+      "categoryId": "2",
+      "positive": false,
+      "impactLevel": "Level",
+      "trialTitle": "Title",
+      "content": "Content",
+      "action": 1,
+      "active": false
     }
   ]
 }
