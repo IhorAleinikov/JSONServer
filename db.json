@@ -1,85 +1,4 @@
 {
-  "clients": [
-    {
-      "id": "1",
-      "name": "Michael",
-      "email": "michael@upstart.com",
-      "phoneNumber": "+972500000001",
-      "idNumber": "123567898",
-      "isActive": false,
-      "createdOn": "2020-04-23T18:25:43.511Z",
-      "age": 25,
-      "gender": "זכר",
-      "profileCompleted": 45,
-      "marketingEmails": true,
-      "history": [
-        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
-        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
-        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"}
-      ]
-    },
-     {
-       "id": "2",
-      "name": "Idan",
-      "email": "Idan@upstart.com",
-      "phoneNumber": "+972500000002",
-      "idNumber": "133567898",
-      "isActive": false,
-      "createdOn": "2020-04-23T18:25:43.511Z",
-      "age": 25,
-      "gender": "זכר",
-      "profileCompleted": 45,
-      "marketingEmails": false,
-       "history": [
-        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
-        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
-        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"}
-      ]
-    },
-     {
-      "id": "3",
-      "name": "Ihor",
-      "email": "Ihor@upstart.com",
-      "phoneNumber": "+972500000003",
-      "idNumber": "143567898",
-      "isActive": false,
-      "createdOn": "2020-04-23T18:25:43.511Z",
-      "age": 25,
-      "gender": "זכר",
-      "profileCompleted": 45,
-      "marketingEmails": false,
-      "history": [
-        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
-        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"},
-        {"action": "Action", "date": "2020-04-23T18:25:43.511Z", "user": "Some User"}
-      ],
-       "registrationStep": "2/5",
-       "registrationError": "לא קיים",
-       "lastCreditDataUpdate": "2020-04-23T18:25:43.511Z",
-       "currentVersion": "1.7.1",
-       "termsAndConditionsVersion": "terms v 1.0",
-       "deviceType": "IPhone 12",
-       "unsubscribeDate": null,
-       "unsubsribeReason": "-",
-       "services": [
-         {"name": "Service name 1", "registrationDate": "2020-04-23T18:25:43.511Z", "unsubscribeDate": null, "active": true},
-         {"name": "Service name 2", "registrationDate": "2020-04-23T18:25:43.511Z", "unsubscribeDate": "2020-04-23T18:25:43.511Z", "active": false}
-       ],
-       "reports": [
-         {"dateOfOrder": "2020-04-23T18:25:43.511Z", "id": "1234", "type": "user", "status": "submitted", "payment": 40},
-         {"dateOfOrder": "2020-04-23T18:25:43.511Z", "id": "5678", "type": "system", "status": "submitted", "payment": 0}
-       ],
-       "freeReportsHistory": [
-         {"date": "2020-04-23T18:25:43.511Z", "expDate": "2020-04-23T18:25:43.511Z", "doneBy": "Backoffice user", "reason": "Some reason"},
-         {"date": "2020-04-23T18:25:43.511Z", "expDate": "2020-04-23T18:25:43.511Z", "doneBy": "Backoffice user 2", "reason": "Some reason 2"}
-       ],
-       "leads": [
-         {"submittedDate": "2020-04-23T18:25:43.511Z", "productTypeName": "Type name", "productCategoryName": " Category name", "advisorName": "Advisor name", "leadAmount": "100.00", "leadPlace": "Place"},
-         {"submittedDate": "2020-04-23T18:25:43.511Z", "productTypeName": "Type name", "productCategoryName": " Category name", "advisorName": "Advisor name", "leadAmount": "100.00", "leadPlace": "Place"}
-       ],
-       "authenticated": true
-    }
-  ],
   "campaigns": [
     {
       "id": "1",
@@ -199,5 +118,27 @@
       "tipContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel viverra turpis, vestibulum tempus metus. Fusce at euismod purus. Mauris sed egestas mauris, a convallis felis. Mauris diam purus, porta molestie tellus eget, venenatis sodales massa. Pellentesque finibus tortor at euismod accumsan. Morbi non nulla ac ipsum lobortis pretium ut at ipsum. Mauris a efficitur dolor. Cras laoreet tellus eu nisl hendrerit porta. Nulla facilisi.",
       "active": false
     }
+  ],
+  "scoreSentences": [
+    {
+      "aggregatedId": "1",
+      "categoryId": "2",
+      "positive": true,
+      "impactLevel": "Level",
+      "trialTitle": "Title",
+      "content": "Content",
+      "action": 0,
+      "active": true
+    },
+    {
+      "aggregatedId": "2",
+      "categoryId": "2",
+      "positive": false,
+      "impactLevel": "Level",
+      "trialTitle": "Title",
+      "content": "Content",
+      "action": 1,
+      "active": false
+    },
   ]
 }
