@@ -1,32 +1,4 @@
 {
-  "campaigns": [
-    {
-      "id": "1",
-      "type": "1",
-      "advertiser": "Advertiser",
-      "campaign": "Campaign",
-      "status": true,
-      "startDate": "2020-04-23T18:25:43.511Z",
-      "endDate": "2020-04-23T18:25:43.511Z",
-      "strategy": "Strategy",
-      "dailyBudget": "2,000",
-      "dailyBudgetLeft": "2,000",
-      "lastUpdated": "2020-04-23T18:25:43.511Z"
-    },
-    {
-      "id": "2",
-      "type": "2",
-      "advertiser": "Advertiser",
-      "campaign": "Campaign",
-      "status": false,
-      "startDate": "2020-04-23T18:25:43.511Z",
-      "endDate": "2020-04-23T18:25:43.511Z",
-      "strategy": "Strategy",
-      "dailyBudget": "4,000",
-      "dailyBudgetLeft": "4,000",
-      "lastUpdated": "2020-04-23T18:25:43.511Z"
-    }
-   ],
   "products": [
     {
       "id": "1",
@@ -140,6 +112,24 @@
       "trialTitle": "Title",
       "content": "Content",
       "action": 1,
+      "active": false
+    }
+  ],
+  "faq": [
+    {
+      "id": "1",
+      "category": 1,
+      "question": "Question",
+      "answer": "Answer",
+      "presentation": 1,
+      "active": true
+    },
+    {
+      "id": "2",
+      "category": 2,
+      "question": "Question",
+      "answer": "Answer",
+      "presentation": 2,
       "active": false
     }
   ]
